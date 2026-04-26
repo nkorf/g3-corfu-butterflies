@@ -74,13 +74,6 @@ The accompanying data-descriptor paper (`paper/main.pdf` in this
 repository) provides the full dataset description, evaluation protocol,
 and reference baseline numbers.
 
-## Limitations
-
-- 165 images, collected in Corfu only — not a broad biodiversity reference.
-- Annotations are visual attributes (color, pattern, extra features) rather
-  than species labels. A future revision can add species labels without
-  breaking the pipeline (just add a second classification head).
-
 ## License
 
 - **Dataset**: CC BY 4.0
