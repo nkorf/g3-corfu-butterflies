@@ -1,0 +1,13 @@
+\begin{tabular}{lcccc}
+\toprule
+ & \multicolumn{2}{c}{5-fold CV} & \multicolumn{2}{c}{Locked holdout} \\
+\cmidrule(lr){2-3}\cmidrule(lr){4-5}
+Metric & CLIP probe & ViT-B/16 FT & CLIP probe & ViT-B/16 FT \\
+\midrule
+Macro-F1 & 0.291 $\pm$ 0.046 & 0.395 $\pm$ 0.040 & 0.256 & 0.342 \\
+Micro-F1 & 0.510 $\pm$ 0.032 & 0.525 $\pm$ 0.016 & 0.400 & 0.563 \\
+Exact match & 0.050 $\pm$ 0.048 & 0.029 $\pm$ 0.027 & 0.071 & 0.000 \\
+Mean AUROC & 0.233 $\pm$ 0.026 & 0.209 $\pm$ 0.026 & 0.358 & 0.225 \\
+Mean AP & 0.490 $\pm$ 0.040 & 0.528 $\pm$ 0.015 & 0.406 & 0.443 \\
+\bottomrule
+\end{tabular}

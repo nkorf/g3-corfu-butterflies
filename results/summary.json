@@ -1,0 +1,32 @@
+{
+  "folds": [
+    {
+      "fold": 0,
+      "best_epoch": 16,
+      "best_macro_f1": 0.34438348169755495
+    },
+    {
+      "fold": 1,
+      "best_epoch": 4,
+      "best_macro_f1": 0.37191854877148994
+    },
+    {
+      "fold": 2,
+      "best_epoch": 6,
+      "best_macro_f1": 0.4369184455391352
+    },
+    {
+      "fold": 3,
+      "best_epoch": 7,
+      "best_macro_f1": 0.4459994149830811
+    },
+    {
+      "fold": 4,
+      "best_epoch": 7,
+      "best_macro_f1": 0.3747228558845071
+    }
+  ],
+  "mean_macro_f1": 0.3947885493751536,
+  "std_macro_f1": 0.03965809056814646,
+  "note": "aggregated across 5 folds: folds 0-2 on MPS, folds 3-4 on CPU"
+}

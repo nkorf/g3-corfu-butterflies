@@ -1,0 +1,25 @@
+{
+  "n_images": 165,
+  "models": {
+    "clip_vitb32": {
+      "identifier": "open_clip:ViT-B-32:laion2b_s34b_b79k",
+      "shape": [
+        165,
+        512
+      ],
+      "dtype": "float32",
+      "l2_normalised": true,
+      "sha256": "c775051f1eb6de48fcc895c970ced9bf3236c63fe4badf4ab5ec868190ee095f"
+    },
+    "vitb16_imagenet": {
+      "identifier": "torchvision:vit_b_16:IMAGENET1K_V1",
+      "shape": [
+        165,
+        768
+      ],
+      "dtype": "float32",
+      "l2_normalised": false,
+      "sha256": "b9e591013c74ffb645ab73d8a0173df2a34476e374e0056fa3b04c8148e5f1f4"
+    }
+  }
+}

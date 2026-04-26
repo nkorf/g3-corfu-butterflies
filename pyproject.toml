@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "g3"
+version = "0.1.0"
+description = "G3 Corfu Butterflies: ViT multi-label baseline."
+requires-python = ">=3.10"
+readme = "README.md"
+dependencies = [
+    "torch>=2.2",
+    "torchvision>=0.17",
+    "numpy>=1.24",
+    "pandas>=2.0",
+    "Pillow>=10.0",
+    "iterative-stratification>=0.1.7",
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]

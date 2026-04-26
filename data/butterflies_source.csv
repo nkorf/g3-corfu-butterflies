@@ -1,0 +1,166 @@
+image,color,pattern,extra_features
+Images/image(1).jpg,white,dots,black dots
+Images/image(2).jpg,purple,lines,black lines
+Images/image(3).jpg,yellow,stripes,black stripes
+Images/image(4).jpg,white,"stripes,lines",black stripes
+Images/image(5).jpg,white,stripes,black stripes
+Images/image(6).jpg,yellow,"stripes,lines",black lines
+Images/image(7).jpg,yellow,stripes,orange dots
+Images/image(8).jpg,yellow,dots,black dots
+Images/image(9).jpg,white,dots,black dots
+Images/image(10).jpg,white,dots,black dots
+Images/image(11).jpg,light blue,dots,blue dots
+Images/image(12).jpg,green,stripes,green stripes
+Images/image(13).jpg,white,blotches,black blotches
+Images/image(14).jpg,white,dots,brown dots
+Images/image(15).jpg,white,blotches,black blotches
+Images/image(16).jpg,white,blotches,brown blotches
+Images/image(17).jpg,white,blotches,brown blotches
+Images/image(18).jpg,white,blotches,brown blotches
+Images/image(19).jpg,white,blotches,orange blotches
+Images/image(20).jpg,yellow,blotches,orange blotches
+Images/image(21).jpg,yellow,blotches,brown blotches
+Images/image(22).jpg,yellow,blotches,white dots
+Images/image(23).jpg,yellow,blotches,white dots
+Images/image(24).jpg,yellow,blotches,white dots
+Images/image(25).jpg,"yellow,orange",blotches,dots
+Images/image(26).jpg,"yellow,white","blotches,dots",black dots
+Images/image(27).jpg,green,dots,ornage dots
+Images/image(28).jpg,green,dots,brown dots
+Images/image(29).jpg,green,dots,
+Images/image(30).jpg,yellow,dots,orange dots
+Images/image(31).jpg,"green,orange",dots,orange dots
+Images/image(32).jpg,"light blue,blue",,
+Images/image(33).jpg,"white,light,brown",marks,
+Images/image(34).jpg,"white,light",,
+Images/image(35).jpg,"white,light,brown",marks,
+Images/image(36).jpg,green,,
+Images/image(37).jpg,"green,brown",marks,
+Images/image(38).jpg,green,,
+Images/image(39).jpg,"black,blue",blotches,
+Images/image(40).jpg,black,,
+Images/image(41).jpg,"brown,black",dots,black dots
+Images/image(42).jpg,"black,orange",dots,
+Images/image(43).jpg,"brown,orange",dots,white stripes
+Images/image(44).jpg,brown,,
+Images/image(45).jpg,"brown,white,light","stripes,dots",black dots
+Images/image(46).jpg,"brown,white,light","stripes,dots",black dots
+Images/image(47).jpg,"brown,orange,white","stripes,dots",black dots
+Images/image(48).jpg,"brown,black",dots,
+Images/image(49).jpg,"orange,black",dots,
+Images/image(50).jpg,"light blue,blue",,
+Images/image(51).jpg,"brown,black",dots,white  stripes
+Images/image(52).jpg,"brown,black",dots,white stripes
+Images/image(53).jpg,"brown,black",dots,white stripes
+Images/image(54).jpg,black,,
+Images/image(55).jpg,"brown,black",dots,white stripes
+Images/image(56).jpg,"light blue,blue",blotches,
+Images/image(57).jpg,"white,light,black",blotches,
+Images/image(58).jpg,"blue,light blue",,
+Images/image(59).jpg,brown,dots,
+Images/image(60).jpg,brown,dots,
+Images/image(61).jpg,"blue,brown",dots,black dots
+Images/image(62).jpg,grey,dots,black dots
+Images/image(63).jpg,"grey,light blue",dots,black dots
+Images/image(64).jpg,brown,blotches,orange blotches
+Images/image(65).jpg,brown,,"orange blotches,black dots"
+Images/image(66).jpg,"blue,brown",dots,black dots
+Images/image(67).jpg,"blue,grey",dots,black dots
+Images/image(68).jpg,"grey,brown","dots,blotches","black dots,orange blotches"
+Images/image(69).jpg,"grey,light blue",dots,"black dots,orange blotches"
+Images/image(70).jpg,blue,,
+Images/image(71).jpg,"blue,grey","dots,blotches","black dots,orange blotches"
+Images/image(72).jpg,"brown,blue,grey",,
+Images/image(73).jpg,"blue,grey","dots,blotches","ornage blotches,black dots "
+Images/image(74).jpg,"blue,grey","dots,blotches","ornage blotches,black dots "
+Images/image(75).jpg,"brown,grey",stripes,black stripes
+Images/image(76).jpg,brown,dots,black dots
+Images/image(77).jpg,brown,blotches,orange blotches
+Images/image(78).jpg,"brown,grey",,
+Images/image(79).jpg,"black,orange","dots,blotches","white blotches,black dots"
+Images/image(80).jpg,"orange,black","dots,stripes","white stripes,white dots"
+Images/image(81).jpg,"black,white,brown",blotches,white blotches
+Images/image(82).jpg,orange,dots,black dots
+Images/image(83).jpg,"black,brown",,
+Images/image(84).jpg,brown,blotches,white blotches
+Images/image(85).jpg,brown,blotches,"white,blotches"
+Images/image(86).jpg,orange,blotches,"white blotches,black blotches"
+Images/image(87).jpg,black,,
+Images/image(88).jpg,"black,orange","dots,blotches",white blotches
+Images/image(89).jpg,"black,orange","dots,blotches",white blotches
+Images/image(90).jpg,"gold,white","dots,blotches","gold blotches,black dots"
+Images/image(91).jpg,"black,orange","dots,blotches","white blotches,black dots"
+Images/image(92).jpg,brown,,
+Images/image(93).jpg,orange,blotches,"yellow blotches,black blotches"
+Images/image(94).jpg,brown,blotches,black blotches
+Images/image(95).jpg,yellow,blotches,"orange blotches,black blotches"
+Images/image(96).jpg,yellow,stripes,black stripes
+Images/image(97).jpg,yellow,stripes,black stripes
+Images/image(98).jpg,yellow,stripes,black stripes
+Images/image(99).jpg,"orange,white",blotches,black blotches
+Images/image(100).jpg,orange,blotches,black blotches
+Images/image(101).jpg,orange,blotches,black blotches
+Images/image(102).jpg,brown,"stripes,dots","white stripes,black dots"
+Images/image(103).jpg,orange,blotches,black blotches
+Images/image(104).jpg,orange,blotches,black blotches
+Images/image(105).jpg,white,"stripes,dots","black stripes,black dots"
+Images/image(106).jpg,white,"blotches,dots","black blotches,white dots"
+Images/image(107).jpg,brown,blotches,yellow blotches
+Images/image(108).jpg,brown,stripes,black stripes
+Images/image(109).jpg,brown,,
+Images/image(110).jpg,brown,"dots,blotches","black dots,yellow blotches"
+Images/image(111).jpg,brown,"dots,blotches","black dots,yellow blotches"
+Images/image(112).jpg,brown,blotches,white blotches
+Images/image(113).jpg,brown,blotches,white blotches
+Images/image(114).jpg,brown,dots,black dots
+Images/image(115).jpg,brown,blotches,black blotches
+Images/image(116).jpg,brown,dots,yellow blotches
+Images/image(117).jpg,"orange,brown",dots,black dots
+Images/image(118).jpg,orange,dots,black dots
+Images/image(119).jpg,yellow,dots,black dots
+Images/image(120).jpg,grey,dots,black dots
+Images/image(121).jpg,brown,dots,black dots
+Images/image(122).jpg,brown,"dots,blotches","yello blotches,black dots"
+Images/image(123).jpg,orange,"dots,stripes","brown stripes,black dots"
+Images/image(124).jpg,brown,dots,black dots
+Images/image(125).jpg,orange,"dots,stripes","brown stripes,black dots"
+Images/image(126).jpg,brown,dots,black dots
+Images/image(127).jpg,brown,"dots,stripes","black dots,brown stripes"
+Images/image(128).jpg,brown,dots,brown dots
+Images/image(129).jpg,brown,blotches,"ornage blotches,yellow blotches "
+Images/image(130).jpg,brown,blotches,white blotches
+Images/image(131).jpg,orange,,
+Images/image(132).jpg,orange,,
+Images/image(133).jpg,ornage,,
+Images/image(134).jpg,brown,,
+Images/image(135).jpg,brown,blotches,white blotches
+Images/image(136).jpg,brown,blotches,white blotches
+Images/image(137).jpg,black,blotches,
+Images/image(138).jpg,brown,blotches,white blotches
+Images/image(139).jpg,brown,blotches,black blotches
+Images/image(140).jpg,black,stripes,white stripes
+Images/image(141).jpg,white,blotches,"black blotches,white blotches"
+Images/image(142).jpg,"black,orange",blotches,"white blotches,black blotches"
+Images/image(143).jpg,white,dots,black dots
+Images/image(144).jpg,white,stripes,brown stripes
+Images/image(145).jpg,brown,stripes,white stripes
+Images/image(146).jpg,grey,blotches,brown blotches
+Images/image(147).jpg,white,stripes,black stripes
+Images/image(148).jpg,yellow,blotches,orange blotches
+Images/image(149).jpg,orange,stripes,orange stripes
+Images/image(150).jpg,orange,blotches,black blotches
+Images/image(151).jpg,brown,stripes,white stripes
+Images/image(152).jpg,black,blotches,orange blotches
+Images/image(153).jpg,white,blotches,brown blotches
+Images/image(154).jpg,black,blotches,white blotches
+Images/image(155).jpg,black,"blotches,dots","white blotches,black dots"
+Images/image(156).jpg,brown,"squares,stripes","white stripes,brown squares"
+Images/image(157).jpg,grey,,
+Images/image(158).jpg,blue,dots,"orange dots,white dots"
+Images/image(159).jpg,black,dots,orange dots
+Images/image(160).jpg,black,blotches,red blotches
+Images/image(161).jpg,white,dots,black dots
+Images/image(162).jpg,brown,stripes,white stripes
+Images/image(163).jpg,brown,,
+Images/image(164).jpg,black,stripes,orange stripes
+Images/image(165).jpg,white,blotches,black blotches
