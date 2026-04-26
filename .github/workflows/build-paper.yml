@@ -1,0 +1,35 @@
+name: Build paper
+
+on:
+  push:
+    paths:
+      - 'paper/**'
+      - '.github/workflows/build-paper.yml'
+  pull_request:
+    paths:
+      - 'paper/**'
+  workflow_dispatch:
+
+jobs:
+  latex:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Compile main.tex
+        uses: xu-cheng/latex-action@v3
+        with:
+          working_directory: paper
+          root_file: main.tex
+          latexmk_use_xelatex: false
+          latexmk_shell_escape: false
+          continue_on_error: false
+
+      - name: Upload PDF artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: g3-paper-pdf
+          path: paper/main.pdf
+          retention-days: 30
+          if-no-files-found: error

@@ -45,10 +45,34 @@ data/
 
 ## Citation
 
-> Ghinis, S., Gjoni, V., Gkinis, S., Korfiatis, N., Avlonitis, M.,
-> Kourouthanassis, P., Karyotis, V. (2026). *G3 Corfu Butterflies:
+If you use this dataset or its baselines in academic work, please cite:
+
+> Korfiatis, N., Avlonitis, M., Kourouthanassis, P., Karyotis, V.,
+> Ghinis, S., Gjoni, V., Gkinis, S. (2026). *G3 Corfu Butterflies:
 > A Small-Scale Benchmark for Long-Tailed Multi-Label Attribute
-> Recognition.* Harvard Dataverse. https://doi.org/10.7910/DVN/W6UMIR
+> Recognition* \[Data set]. Harvard Dataverse.
+> https://doi.org/10.7910/DVN/W6UMIR
+
+BibTeX:
+
+```bibtex
+@dataset{korfiatis2026g3,
+  title     = {G3 Corfu Butterflies: A Small-Scale Benchmark for
+               Long-Tailed Multi-Label Attribute Recognition},
+  author    = {Korfiatis, Nikolaos and Avlonitis, Markos and
+               Kourouthanassis, Panos and Karyotis, Vasileios and
+               Ghinis, Stamatis and Gjoni, Vojsava and Gkinis, Spiros},
+  year      = {2026},
+  publisher = {Harvard Dataverse},
+  version   = {V1},
+  doi       = {10.7910/DVN/W6UMIR},
+  url       = {https://doi.org/10.7910/DVN/W6UMIR}
+}
+```
+
+The accompanying data-descriptor paper (`paper/main.pdf` in this
+repository) provides the full dataset description, evaluation protocol,
+and reference baseline numbers.
 
 ## Limitations
 
